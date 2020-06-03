@@ -1,2 +1,1 @@
-# holbertonschool-zero_day
-my first commit GITHUB
+"Starting to code today, so cool"
